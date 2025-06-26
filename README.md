@@ -6,7 +6,7 @@ A modern, full-stack online code compiler that supports multiple programming lan
 
 ## ✨ Features
 
-- **Multi-language Support**: C++, Python, Java, and JavaScript
+- **Multi-language Support**: C++ and Python
 - **Real-time Code Editing**: Syntax highlighting with Prism.js
 - **Live Code Execution**: One-click compilation and execution
 - **Responsive Design**: Clean, modern interface built with Tailwind CSS
