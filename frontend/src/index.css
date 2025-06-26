@@ -1,0 +1,64 @@
+/* AaryaOnlineCompiler - Global Styles
+ * Created by Aarya Agarwal
+ */
+
+@import 'tailwindcss';
+
+/* Prism.js theme import */
+@import 'prismjs/themes/prism.css';
+
+/* Custom styles for the code editor */
+.npm__react-simple-code-editor__textarea:focus {
+  outline: none !important;
+}
+
+/* Improve syntax highlighting contrast */
+.token.comment {
+  color: #6a737d !important;
+}
+
+.token.keyword {
+  color: #d73a49 !important;
+}
+
+.token.string {
+  color: #032f62 !important;
+}
+
+.token.number {
+  color: #005cc5 !important;
+}
+
+.token.function {
+  color: #6f42c1 !important;
+}
+
+/* Custom scrollbar for output area */
+pre::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+pre::-webkit-scrollbar-track {
+  background: #1f2937;
+}
+
+pre::-webkit-scrollbar-thumb {
+  background: #4b5563;
+  border-radius: 4px;
+}
+
+pre::-webkit-scrollbar-thumb:hover {
+  background: #6b7280;
+}
+
+/* Loading animation */
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin {
+  animation: spin 1s linear infinite;
+}
