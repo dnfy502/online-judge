@@ -1,4 +1,4 @@
-# AaryaOnlineCompiler
+# Online Compiler
 
 **Created by Aarya Agarwal**
 
@@ -186,14 +186,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Aarya Agarwal**
-- GitHub: [@your-github-username]
-- Email: your.email@example.com
+- GitHub: [@dnfy502]
+- Email: aarya.agarwal6@gmail.com
 
 ## 🙏 Acknowledgments
 
-- Inspired by online compilers like CodePen and JSFiddle
-- Built as a modern alternative to AlgoU-Online-Compiler
-- Thanks to the Django and React communities for excellent documentation
+- Inspired by AlgoU-Online-Compiler
 
 ## 📸 Screenshots
 
